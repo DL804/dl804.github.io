@@ -9,17 +9,17 @@ body {
 
 
 .headerimage {
-	display:block;
-	margin:auto;
-	padding-bottom:20px
-	width:500px;
+	display: block;
+	margin: auto;
+	padding-bottom: 25px;
+	width: 150px;
 }
 
 .headerintro {
 	display: block;
-	margin:auto;
-	width:400px;
-	padding-bottom:50px;
+	margin: auto;
+	width: 400px;
+	padding-bottom: 50px;
 }
 
 #ullist{
@@ -43,8 +43,8 @@ table {
 
 .tableheader{
 	background-color: gray;
+	font-size: 1.2em;
 }
-
 
 #links{
 	display: inline-block;
