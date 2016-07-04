@@ -1,0 +1,76 @@
+
+
+body {
+	font-family: "Arial", sans-serif; 
+	text-align: center;
+	background-image: url("http://templatemints.com/rttheme13/images/background_images/abstract_background7.jpg")
+}
+
+
+
+.headerimage {
+	display: block;
+	margin: auto;
+	padding-bottom: 25px;
+	width: 150px;
+}
+
+.headerintro {
+	display: block;
+	margin: auto;
+	width: 400px;
+	padding-bottom: 50px;
+}
+
+#ullist{
+
+	display: inline-block;
+	left: 500px;
+	text-align: left;
+}
+
+
+#title {
+	display: block;
+	text-align: center; 
+	font-family: "Lucida Console", monospace
+}
+
+table {
+	border-color: white;
+	margin: auto;
+}
+
+.tableheader{
+	background-color: gray;
+	font-size: 1.2em;
+}
+
+#links{
+	display: inline-block;
+	text-align: left;
+}
+
+
+a:visited {
+	color: green;
+}
+
+.answer {
+	display: block;
+	font-size: small;
+	margin-left: 500px;
+	width: 600px;
+}
+
+@media screen and (max-width: 500px) {
+  body {
+    font-size: 30px;
+	}
+}
+
+​
+
+  
+
+
