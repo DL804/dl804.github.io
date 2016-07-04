@@ -57,10 +57,9 @@ a:visited {
 }
 
 .answer {
-	display: block;
 	font-size: small;
-	margin-left: 500px;
-	width: 600px;
+	margin-left: 25%;
+	width: 60%;
 }
 
 @media screen and (max-width: 500px) {
